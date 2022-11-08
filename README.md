@@ -66,3 +66,6 @@ Tak. Jednak brakuje samouczka "Step By Step" dla nowego użytkownika
 
 
 ######
+**TASK 2** 
+=
+link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_iycB46p-?usp=sharing
