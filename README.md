@@ -74,7 +74,7 @@ link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_
 =
 **Subtask1**
 ----
-link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_iycB46p-?usp=sharing
+link do zadań: https://drive.google.com/drive/folders/1ahXgWlGJ6e--fYCmc10Mb4XNGzl0efCk?usp=share_link
 #####
 **Subtask3**
 ----
