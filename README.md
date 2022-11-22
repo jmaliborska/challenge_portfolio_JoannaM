@@ -69,3 +69,47 @@ Tak. Jednak brakuje samouczka "Step By Step" dla nowego użytkownika
 **TASK 2** 
 =
 link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_iycB46p-?usp=sharing
+
+**TASK 4** 
+=
+**Subtask1**
+----
+link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_iycB46p-?usp=sharing
+#####
+**Subtask3**
+----
+1. Do czego służy aplikacja https://focusly.co/ ? Jaki jest cel tej aplikacji? \
+Aplikacja służy do:
+- samorozwoju, edukacji rozwijaniu zagadnień z psychologii;
+- zorientowania na złapanie równowagi  w życiu,  uwolnienie energii „mind-flow”; 
+- medytacji;
+- znalezieniu chwili dla siebie w otaczającym nas świecie (pędu życia, prze-bodźcowaniu);
+- nauki oddychania i wyciszenia;
+- skupienie się na sobie „wewnętrznemu ja”.
+
+2. Kto ma być użytkownikiem końcowym aplikacji? \
+Osoby, które pragną się rozwijać w wielu aspektach życiowych i duchowych. Pomocna w walce z różnymi jednostkami chorobowymi np. stany lękowe, nerwice, bezsenność. Dzięki nauce wyciszenia oraz oddychania, życie może okazać się dla nich łatwiejsze w stresujących momentach. Użytkownicy który chcą skupić się również na psychologii, samoakceptacji i rozwoju.
+
+3. Czy według Ciebie aplikacja jest user friendly? \
+W ogóle nie jest przyjazna. Panuje chaos, który może prowadzić do zakłopotania oraz frustracji a aplikacja ma docelowo pomagać w rozładowaniu stresu. Ze względu na poświęcony czas i cierpliwość podczas testów eksploracyjnych doszłam do wniosku jak poruszać się po aplikacji. Jednak nawet nawigacyjny klawisz (wstecz)nie leży w obrębie kciuka a jest położony u góry w aplikacji
+
+4. Jak byś usprawnił aplikację? 
+	
+- Klawisz back w obrębie kciuka a nie u góry aplikacji- aktualnie utrudnia użytkownikowi poruszanie się po aplikacji;
+- Dodanie w panelu głównym ulubionych(serduszko) sekcji: utworów, muzyki, wykładów- szybki dostęp;
+- W głównym menu można dodawać tylko po jednej opcji np. „kurs wprowadzający”, „cel”, „Dla Ciebie”, „Wyzwania”. Jest to dość uciążliwe, dlaczego użytkownik nie może mieć większej ilości sekcji – testowałam subskrypcję free;
+- Wprowadzenie motywacyjnych przekazów dnia, hasła, motta;
+- Wprowadzenie astralnych faz księżyca, układów planet itp. – częste odwołania w medytacji;
+- Wdzięczność- częste odwołania w medytacji, aby użytkownik po zadanym pytaniu mógł zastanowić się nad swoim życiem, za co jest wdzięczny itp.;
+- Powiadomienia push up gdy użytkownik nie zaglądał do aplikacji przez określony czas np. 2 dni;
+- Sekcja „Twórcy”: ujednolicić format zdjęć np. wszyscy posiadają identyczne tło, zdjęcie profilowe. Aktualnie panuje chaos, brak spójności. 
+„Papier wszystko przyjmie”idąc tą ideą by uwiarygodnić kompetencje twórców odnośniki do profili FB, Linkedin. By użytkownik mógł faktycznie zweryfikować profil danego twórcy.
+Kolejny aspekt na jaki należy zwrócić uwagę to wyrównanie tekstu od lewej do prawej strony każdego twórcy, aby wszystko wyglądało schludnie. Przesunięcie pojedynczych liter na końcu wiersza np. „i”, „z” do kolejnego wiersza.
+Rozwinięcie biografii o danym twórcy. Aktualnie słowo”Więcej” a po rozwinięciu biografii słowo „ Ukryj” jest uwydatnione większą czcionką. Wg mnie lepszy byłby ten sam rozmiar czcionki co cały tekst lub mniejszy. Jednak by wyróżnić słowo zaznaczyć pogrubieniem/podkreślaniem lub dodaniem słowa w kolorze -aby rzucał się w oczy; 
+- Sekcja Oddychaj opis konfiguracji aktualnie nieświadomy użytkownik nie wie czym różni się np. poziom trudności: podstawowy, średnio-zaawansowany i zaawansowany. Jak użytkownik może określić swój poziom trudności?;
+- Ujednolicenie panelu odsłuchiwania nagrań. W sekcji „odkrywaj” można przejść do następnego utworu, zaś w sekcji ”muzyka”taka opcja jest niedostępna.  Kolejną kwestią do rozważenia zmiany jest przesunięcie czasowe materiału. Aktualnie dostępna jest opcja przesuwania materiału o 15sekund do przodu/tyłu. Powinny być kolejne jednostki czasowe np. 30sekund, 1 minuta, 3minuty. Użytkownik wybiera opcję czasową jaka mu odpowiada. Wprowadzenie opcji zakładki aby wrócić do nagrania w danym momencie gdy np. użytkownik w danym momencie wychodzi z osłuchanego utworu a ma ochotę wrócić do niego w innym terminie.
+
+
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? \
+To zależy od aplikacji. Trudniejszy dostęp do logów, devtoolsów są na aplikacjach natywnych. Na każdym urządzeniu mobilnym aplikacja może zachować się inaczej.
