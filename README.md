@@ -72,7 +72,7 @@ link do zadań: https://drive.google.com/drive/folders/1owc2aPJm09I_pS6gKpjIfeo_
 
 **TASK 4** 
 =
-**Subtask1**
+**Subtask1 i Subtask2**
 ----
 link do zadań: https://drive.google.com/drive/folders/1ahXgWlGJ6e--fYCmc10Mb4XNGzl0efCk?usp=share_link
 #####
